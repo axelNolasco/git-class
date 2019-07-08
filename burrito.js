@@ -1,0 +1,2 @@
+frijoles
+lengua

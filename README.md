@@ -6,3 +6,6 @@ Hola, mundo!
 Este es el archivo readme.
 
 Mensaje de paz!
+Mensaje de odio!
+
+Adios, mundo!
