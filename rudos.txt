@@ -1,12 +1,12 @@
-David Silva
-26
-CDMX
-Cómics
+Name: David Silva
+Age: 26
+City: CDMX
+Hobbies: Cómics
 
-Luis Gallegos
-23
-Sonora
-TV
+Name: Luis Gallegos
+Age: 23
+City: Sonora
+Hobbies: TV
 
 Name: Erick Israel Vazquez Neri
 Age: 27
@@ -17,3 +17,8 @@ Name: Emmanuel Rubio Navarro
 Age: 22
 City: Tepatilán de Morelos, Jalisco
 Hobbies: Read, soccer, beer.
+
+Name: Héctor Soto García
+Age: 25
+City: Ciudad Juárez, Chihuahua
+Hobbies: Reading, writing fiction, watching series
