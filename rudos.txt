@@ -22,3 +22,8 @@ Name: Héctor Soto García
 Age: 25
 City: Ciudad Juárez, Chihuahua
 Hobbies: Reading, writing fiction, watching series
+
+Name: Viridiana De la rocha
+Age: 24 
+City: Guadalajara
+Hobbies: Movies
