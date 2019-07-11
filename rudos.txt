@@ -15,5 +15,5 @@ Hobbies: Music, lecture, code, beer.
 
 Name: Emmanuel Rubio Navarro
 Age: 22
-City: TEpatilán de Morelos, Jalisco
+City: Tepatilán de Morelos, Jalisco
 Hobbies: Read, soccer, beer.
