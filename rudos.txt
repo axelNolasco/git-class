@@ -7,3 +7,8 @@ Luis Gallegos
 23
 Sonora
 TV
+
+Name: Erick Israel Vazquez Neri
+Age: 27
+City: Chihuahua, Chih.
+Hobbies: Music, lecture, code, beer.
