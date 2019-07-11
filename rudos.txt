@@ -12,3 +12,8 @@ Name: Erick Israel Vazquez Neri
 Age: 27
 City: Chihuahua, Chih.
 Hobbies: Music, lecture, code, beer.
+
+Name: Emmanuel Rubio Navarro
+Age: 22
+City: TEpatilán de Morelos, Jalisco
+Hobbies: Read, soccer, beer.
