@@ -1,0 +1,3 @@
+Git no une dos archivos automaticamente si hay modificaciones en ambos en la misma linea(s),
+es necesario resolver los conflictos manualmente y hacer un nuevo commit con las cambios necesarios para que funcione o simplemente abortar la union y los archivos vuelven al estado en el que estaba antes de iniciar el merge.
+
