@@ -1,0 +1,3 @@
+A veces hay conflictos a la hora de editar un archivo cuando mas de alguna persona trabaja sobre el mismo y modifica las mismas lineas.
+Solucionar estos conflictos no es una cosa muy dificil pero puede llegar a complicar un poco las cosas a la hora de colaborar.
+Puedes mantener los cambios de solo una de las dos ediciones, ya sea la tuya o la de tu compañero, o solucionar el problema juntando ambas ediciones.
