@@ -1,0 +1,2 @@
+Viri
+Cuando se trabaja en diferentes branchs la union de ellas puede ocasionar conflictos, esto sucede cuando los commits se quieren fusionar y la rama actual modifica la misma parte de un archivo en particular, git no puede decidir cual version guardar y es cuando suceden los conflictos.
