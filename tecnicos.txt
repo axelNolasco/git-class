@@ -1,0 +1,2 @@
+Resolucion de conflictos por Cristian Humberto Plascencia Angulo.
+Que gran tecnologia es git, no conosco herramienta que resuelva conflictos. Esto ayudarà mucho a hacer buenas practicas con codigo.
