@@ -1,0 +1,2 @@
+David: Conflicts occurs when two developers modified the same line or when a developer
+delete a file while the other is working on it.
