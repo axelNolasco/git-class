@@ -1,0 +1,3 @@
+Los conflictos se dan cuando se trata de hacer merge y se encuentran archivos
+que fueron modificados mas de una vez en la misma linea. Para resolverlos
+hay que decidir que cambios se quedan o como combinarlos.
