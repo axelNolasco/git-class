@@ -1,0 +1,3 @@
+What i understand about 'Solving conflicts' class is that if i am up to conflict solving,
+i need to find a way to don't crash others work with the final implementation. This will happen 
+more often as wanted but comunication is key on the conflic solving.
