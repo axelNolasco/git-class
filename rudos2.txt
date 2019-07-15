@@ -1,3 +1,9 @@
 Git no une dos archivos automaticamente si hay modificaciones en ambos en la misma linea(s),
 es necesario resolver los conflictos manualmente y hacer un nuevo commit con las cambios necesarios para que funcione o simplemente abortar la union y los archivos vuelven al estado en el que estaba antes de iniciar el merge.
 
+En ocasiones, cuando dos o mas desarrolladores trabajan en un mismo archivo, pueden surgir conflictos
+debido a que se trabajaron en las mismas lineas de texto del archivo. 
+Cuando esto sucede, Git no tiene conocimiento de como resolver tal situacion, puesto que no sabe cual version 
+o cambio del archivo utilizar para los repositorios.
+En estos casos, es tarea del desarrollador que esta haciendo merge de otra branch a la suya el resolver los conflictos
+de forma manual. Afortunadamente muchos editores de texto y IDEs ofrecen soluciones sencillas para la resolucion de estos.
