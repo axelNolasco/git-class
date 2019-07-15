@@ -1,0 +1,2 @@
+urbano: La resolucion de conflictos en git, se produice cuando el sistema detecta
+que una o mas lineas estan en el mismo lugar, por lo que es necesario resolverlo a pata
