@@ -1,2 +1,9 @@
 urbano: La resolucion de conflictos en git, se produice cuando el sistema detecta
 que una o mas lineas estan en el mismo lugar, por lo que es necesario resolverlo a pata
+
+Cristian, Resolucion de conflictos.
+Que gran tecnologia es git, no conosco herramienta que resuelva conflictos. Esto ayudarà mucho a hacer buenas practicas con codigo.
+
+Nestor, Resolucion de conflictos: al momento de mergear surgen conflictos por que los dos archivos estan modificados.... 
+Sergio: Los problemas y conflicos son por mala comunicacion, todo se resuelve gdirigiendo desde el inicio con que archivos trabajar.
+
