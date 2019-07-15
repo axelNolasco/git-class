@@ -1,3 +1,20 @@
-What i understand about 'Solving conflicts' class is that if i am up to conflict solving,
-i need to find a way to don't crash others work with the final implementation. This will happen 
-more often as wanted but comunication is key on the conflic solving.
+<-----  Que entendi de la tematica 'Resolucion de conflictos' ---->
+
+Erick: Lo que entiendo de la clase de 'Resolucion de conflictos' es que si me encontrase en la posicion de
+resolucion de conflico, debo generar la mejor manera de implementar este solucion para no dañar el 
+trabajo de los demas desarrolladores.
+
+Ricardo: A veces hay conflictos a la hora de editar un archivo cuando mas de alguna persona trabaja sobre el mismo y modifica las mismas lineas.
+Solucionar estos conflictos no es una cosa muy dificil pero puede llegar a complicar un poco las cosas a la hora de colaborar.
+Puedes mantener los cambios de solo una de las dos ediciones, ya sea la tuya o la de tu compa�ero, o solucionar el problema juntando ambas ediciones.
+
+Emmanuel: Git no une dos archivos automaticamente si hay modificaciones en ambos en la misma linea(s),
+es necesario resolver los conflictos manualmente y hacer un nuevo commit con las cambios necesarios para que funcione o simplemente abortar la union y los archivos vuelven al estado en el que estaba antes de iniciar el merge.
+
+Hector: En ocasiones, cuando dos o mas desarrolladores trabajan en un mismo archivo, pueden surgir conflictos
+debido a que se trabajaron en las mismas lineas de texto del archivo. 
+Cuando esto sucede, Git no tiene conocimiento de como resolver tal situacion, puesto que no sabe cual version 
+o cambio del archivo utilizar para los repositorios.
+En estos casos, es tarea del desarrollador que esta haciendo merge de otra branch a la suya el resolver los conflictos
+de forma manual. Afortunadamente muchos editores de texto y IDEs ofrecen soluciones sencillas para la resolucion de estos.
+
