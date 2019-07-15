@@ -1,3 +1,6 @@
+Edgar: Los conflictos se presentan cuando dos o mas desarrolladores se encuentran modificando el mismo archivo, en el cual trabajan en la misma linea,
+lo que al momento de subir las modificaciones individuales, git detectará discrepancias inportantes que haran imposible realizar la accion de "merged"
+
 urbano: La resolucion de conflictos en git, se produice cuando el sistema detecta
 que una o mas lineas estan en el mismo lugar, por lo que es necesario resolverlo a pata
 
