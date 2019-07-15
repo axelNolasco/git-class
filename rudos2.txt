@@ -1,0 +1,7 @@
+Estefanía:
+Al trabajar en el mismo archivo surgen diversos cambios que pueden afectar a las mismas lineas de código
+lo cual genera conflictos, los cuales deberán ser resueltos por el desarrollador que realice el 
+merge. Existirá la opción de "abortar" el merge, aceptar ambos cambios, elegir entre uno de los cambios,
+o incluso fusionar ambos cambios. Dichos conflictos pueden ser solucionados en la terminal o desde el
+editor de código.
+
